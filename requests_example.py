@@ -1,9 +1,3 @@
-"""GET a repository record from GitHub's public API using requests.
-
-Install:  python -m pip install requests
-Run:      python requests_example.py
-"""
-
 import requests
 
 URL = "https://api.github.com/repos/psf/requests"
